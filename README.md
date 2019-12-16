@@ -1,4 +1,4 @@
-# Magic-Mirror-Python
+# Smart-Mirror-Python
 
 A Python-based GUI for the Smart Mirror Project
 
