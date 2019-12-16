@@ -21,9 +21,9 @@ Revision History
 | 1 | 12/02/2019 | Diego Salzani | Initial Document |
 |   |   |   |   |
 
-#Introduction
+# Introduction
 
-##Overview
+## Overview
 
 The Smart Mirror project was born triyng to solve every day life probrems and to make easier some common actions.
 
@@ -31,11 +31,11 @@ It shows informations on a mirror, combining visual harmony with technology.
 
 The goal is to deliver information about everyday news, university schedule and weather thought an aesthetic furniture, mirrors.
 
-##Goals and Objectives
+## Goals and Objectives
 
 The goal is to deliver information about everyday news, university schedule and weather thought an aesthetic furniture, mirrors.
 
-##Definitions
+## Definitions
 
 **Smart Mirror** – The finished product made by wood, an lcd screen and  one raspberry pi
 
@@ -53,52 +53,52 @@ magazines and websites.
 
 current date (day/month/year).
 
-#General Design Constraint
+# General Design Constraint
 
-##Application Enviroment
+## Application Enviroment
 
 
 Smart Mirror software runs with Linux OS on a micro computer, Raspberry PI.
 
 The programs itself is written with python using the graphic interface TKinter.
 
-##User Charateristics
+## User Charateristics
 
 The user can&#39;t directly interact with the widgets, they only give informations. User can see his reflection on the mirror and in the same time read the info.
 
-##Mandated Constraints
+## Mandated Constraints
 
 Having an internet connection to get and update the data displayed and an electrical source to power the mirror.
 
-#Nonfunctional Requirements
+# Nonfunctional Requirements
 
-##Operational Requirements
+## Operational Requirements
 
 The system itself has no user configuration required, the product comes already set up with all the information needed by the user.
 
-##Secutiry Requirements
+## Secutiry Requirements
 
 For any changing to the software the user can contact the email support the will remotely set the product with new information sources.
 
-##Documentation 
+## Documentation 
 
 The instruction manual can be downloaded from the link provided in the box
 
-##External Interface
+## External Interface
 
-###User Interface
+### User Interface
 
 The user interface is designed to be easy to read but also beautiful to see.
 
-###Software Interface
+### Software Interface
 
 The software interface is created with Python .
 
-#Functional Requirements
+# Functional Requirements
 
-##Required Features
+## Required Features
 
-###Use Case: 1
+### Use Case: 1
 
 **Description: Smart Mirror startup**
 
@@ -112,7 +112,7 @@ Basic Path
 4. Every time the data is changed on the server the info displayed on the mirror will automatically change.
 5. User press the power off button and shuts down the poduct.
 
-###Use Case: 2
+### Use Case: 2
 
 **Description: Changing Smart Mirror informations sources**
 
