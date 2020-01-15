@@ -1,9 +1,9 @@
 site_name: 2020_5AI_Team5
 
 nav:
-    - 'Project charter': 'Project Charter.md'
+    - 'Project Charter': 'Project Charter.md'
     - 'Software Requirements Specification Plan': 'Software_requirements.md'
-    - 'Project model canvas': 'Project Model Canvas.md'
+    - 'Project Model Canvas': 'Project Model Canvas.md'
     
 theme:
     name: readthedocs
