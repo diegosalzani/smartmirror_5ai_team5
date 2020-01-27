@@ -26,6 +26,7 @@
 | **12/12/2019** Finalization of some points for widgets and revision of the project |
 
 | **Financial Information (Cost estimate and budget information)** | 
+| --- |
 | 1 mirror €100 Raspberry Pi provided by the school1 LCD screen free1 wooden frame built us €100 total |
 | **Project Priorities and degrees of freedom** |
 | The deadlines set with the professor are very tight, to be respected and deliver a first version by December.Roles are changeable based on workloads of individual team members.  Roles are expected to shift throughout the project as needs arise. |
