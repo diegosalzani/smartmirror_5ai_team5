@@ -7,8 +7,8 @@
 | **Project Manager:** | Diego Salzani |
 | **Project Sponsor:** | ITI G.Marconi |
 | **Customer:** | Everybody |
-| **Users:** | Salzani Diego, Chafiki Nabil, Corrizzato Leonardo |
-| **Stakeholders and Expectations:** | **Team:** Have immediate access to the necessary information about the weather, working hours or school hours and the main news of the day **Professor Drago and Professor Bileddo:** Have projects that can be submitted for the maturity examination and that can be used to solve common problems |
+| **Users:** | Salzani Diego, Chafiki Nabil, Corrizzato Leonardo. |
+| **Stakeholders and Expectations:** | **The Team** has immediate access to the necessary information about the weather, working hours or school hours and the main news of the day. **Teachers Drago and Bileddo** have projects that can be submitted for the maturity examination and that can be used to solve common problems. |
 
 ## Purpose (Problem or opportunity addressed by the project): 
 The purpose of our project is to create a mirror capable of providing have immediate access to the necessary information about the weather, working hours or school hours and the main news of the day. 
