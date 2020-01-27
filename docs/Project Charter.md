@@ -7,15 +7,18 @@
 | **Users:** Salzani Diego, Chafiki Nabil, Corrizzato Leonardo |
 | Stakeholders and Expectations: Team: Have immediate access to the necessary information about the weather, working        hours or school hours and the main news of the dayProfessor Drago and Professor Bileddo: Have projects that can be submitted for the maturity examination and that can be used to solve common problems   |
 | **Purpose (Problem or opportunity addressed by the project)**: The purpose of our project is to create a mirror capable of providing have immediate access to the necessary information about the weather, working hours or school hours and the main news of the day. |
-| **Goals and Objectives** : The general goal of the project is to give access to the news of the day that have happened in the world, ensure the weather in real time and view working hours or school hours whenever any person is reflected in the mirrorThe app is expected to:
+| **Goals and Objectives** : The general goal of the project is to give access to the news of the day that have happened in the world, ensure the weather in real time and view working hours or school hours whenever any person is reflected in the mirrorThe app is expected to: |
 
 - Have the weather in real time.
 - Have daily school or working hours
 - Be constantly updated on the news of the day
-- Have the time and date of the moment when you look at the mirror
+- Have the time and date of the moment when you look at the mirror 
 
-| **Schedule Information (Major milestones and deliverables)**:24/10/2019 - Project organization
-31/10/2019 - Availability of material07/11/2019 - Realization and first version of the canvas14/11/2019 - Date and clock widget implementation (first version)
+| **Schedule Information (Major milestones and deliverables)**:
+24/10/2019 - Project organization
+31/10/2019 - Availability of material
+07/11/2019 - Realization and first version of the canvas
+14/11/2019 - Date and clock widget implementation (first version)
 21/11/2019 - Implementation of widgets for school scheduler
 28/11/2019 - Finalization of canvas and widget for time and date
 05/12/2019 - Insertion of the news widget
