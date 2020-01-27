@@ -25,7 +25,7 @@ The general goal of the project is to give access to the news of the day that ha
 ## Schedule Information: 
 
 | **Date** | **Major milestones and deliverables** |
-| ------------------------------------ | -------------- |
+| -------------- | -------------- |
 | **24/10/2019** | Project organization |
 | **31/10/2019** | Availability of material |
 | **07/11/2019** | Realization and first version of the canvas |
