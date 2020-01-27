@@ -20,8 +20,8 @@
 * Have the time and date of the moment when you look at the mirror
 
 ## Schedule Information: 
-| **Major milestones and deliverables** | - |
-| ------------------------------------ |
+| **Major milestones and deliverables**   |
+| ------------------------------------ | -------------- |
 | **24/10/2019** | Project organization |
 | **31/10/2019** | Availability of material |
 | **07/11/2019** | Realization and first version of the canvas |
