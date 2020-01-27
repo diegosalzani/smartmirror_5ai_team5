@@ -8,7 +8,7 @@
 | **Project Sponsor:** | ITI G.Marconi |
 | **Customer:** | Everybody |
 | **Users:** | Salzani Diego, Chafiki Nabil, Corrizzato Leonardo |
-| **Stakeholders and Expectations:** | Team: Have immediate access to the necessary information about the weather, working hours or school hours and the main news of the dayProfessor Drago and Professor Bileddo: Have projects that can be submitted for the maturity examination and that can be used to solve common problems |
+| **Stakeholders and Expectations:** | **Team:** Have immediate access to the necessary information about the weather, working hours or school hours and the main news of the day **Professor Drago and Professor Bileddo:** Have projects that can be submitted for the maturity examination and that can be used to solve common problems |
 
 ## Purpose (Problem or opportunity addressed by the project): 
 The purpose of our project is to create a mirror capable of providing have immediate access to the necessary information about the weather, working hours or school hours and the main news of the day. 
@@ -36,7 +36,7 @@ The general goal of the project is to give access to the news of the day that ha
 | **12/12/2019** | Finalization of some points for widgets and revision of the project |
 
 ## Financial Information (Cost estimate and budget information) 
-1 mirror €100 Raspberry Pi provided by the school1 LCD screen free1 wooden frame built us €100 total |
+1 mirror €100 Raspberry Pi provided by the school1 LCD screen free1 wooden frame built us €100 total 
 ## Project Priorities and degrees of freedom  
 The deadlines set with the professor are very tight, to be respected and deliver a first version by December.Roles are changeable based on workloads of individual team members.  Roles are expected to shift throughout the project as needs arise.
 ## Constraints  
