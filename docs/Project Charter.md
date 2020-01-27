@@ -9,12 +9,8 @@
 | **Purpose (Problem or opportunity addressed by the project)**: The purpose of our project is to create a mirror capable of providing have immediate access to the necessary information about the weather, working hours or school hours and the main news of the day. |
 | **Goals and Objectives** : The general goal of the project is to give access to the news of the day that have happened in the world, ensure the weather in real time and view working hours or school hours whenever any person is reflected in the mirrorThe app is expected to: |
 
-- Have the weather in real time.
-- Have daily school or working hours
-- Be constantly updated on the news of the day
-- Have the time and date of the moment when you look at the mirror 
 
-| **Schedule Information (Major milestones and deliverables)**:  |
+| **Schedule Information (Major milestones and deliverables)**: |
 
 | 24/10/2019 - Project organization |
 
@@ -45,3 +41,7 @@
 | **Scope** : At the minimum, the software will allow users to check their school hours of the day and be able to monitor the daily weather, and see a number of today&#39;s news.  Time permitting, functionality can be extended as needed. |
 
 | **Risks and obstacles to success** :  A risk that the team has to face is the lack of experience in developing graphic libraries that can interface with the user and the lack of very limited time for the work required.  This lack of experience generates many unknowns. |
+- Have the weather in real time.
+- Have daily school or working hours
+- Be constantly updated on the news of the day
+- Have the time and date of the moment when you look at the mirror 
