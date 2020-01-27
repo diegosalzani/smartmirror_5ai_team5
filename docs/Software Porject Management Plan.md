@@ -1,6 +1,6 @@
 TEAM 5
 
-## Software Project Management Plan
+# Software Project Management Plan
 
 ## Smart Mirror
 
@@ -15,21 +15,20 @@ TEAM 5
 ### Nabil Chafiki
 
 
-```
+
 Version: 1.
-```
+
 #### Document Control
 
 Change History
 
-```
 Revision Change Date Description of changes
 V1.0 04/01/2020 Initial release^
-```
 
-```
+
+
 Version: 1.
-```
+
 #### 1 Overview
 
 ##### 1.1 Purpose and Scope
@@ -69,7 +68,7 @@ Constraint:
 
 ##### 1.5 Schedule and Budget Summary
 
-The project didn’t had a precise budget thanks to the economical support of the
+The project didnâ€™t had a precise budget thanks to the economical support of the
 school.
 Main costs were the mirror, the Raspberry PI, the frame and the LCD.
 
@@ -78,10 +77,8 @@ Main costs were the mirror, the Raspberry PI, the frame and the LCD.
 Success will be achived wen the mirror will be able to update itself from IP location
 and the final product will be ready for delivery until the end of January.
 
-
-```
 Version: 1.
-```
+
 ##### 1.7 Team Organization
 
 Project Manager:
@@ -96,29 +93,28 @@ updated the project with new ideas.
 
 ##### 1.8 Tools
 
-```
-? Programming Language – Phyton
-? Version Control – GIT and GITHUB
-```
+
+? Programming Language â€“ Phyton
+? Version Control â€“ GIT and GITHUB
+
 #### 2 Work Plan
 
 ##### 2.1 Activities and Tasks
 
-```
 ? Programming Weather widget and school shedule
 ? Diego Salzani
 ? Difficulty: Hard
-```
-```
+
+
 ? Programming News widget and clock widge
 ? Leoardo Corrizzato
 ? Difficulty: Medium
-```
-```
+
+
 ? Programming Canvas structure and widget graphical positions
 ? Nabil Chafiki
 ? Difficulty: Medium
-```
+
 ##### 2.2 Release Plan
 
 We are planning to present the final version of the project in front of our key
@@ -130,23 +126,23 @@ The final product will be delivered before the end of January.
 
 ##### 3.1 Monitoring and Control
 
-```
+
 24/10/2019 - Project organization
 31/10/2019 - Availability of material
 07/11/2019 - Realization and first version of the canvas
 14/11/2019 - Date and clock widget implementation (first version)
 21/11/2019 - Implementation of widgets for school scheduler
-```
 
-```
+
+
 Version: 1.
-```
-```
+
+
 28/11/2019 - Finalization of canvas and widget for time and date
 05/12/2019 - Insertion of the news widget
 12/12/2019 - Finalization of some points for widgets and revision of the
 project
-```
+
 #### 4 Supporting Process Plans
 
 ##### 4.1 Risk Management Plan
