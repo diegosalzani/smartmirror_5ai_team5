@@ -1,4 +1,5 @@
-| **Project Title:**  Smart Mirror V1 |
+| **Project Title:** Smart Mirror V1 |
+| --- |
 | **Start Date:** 01/10/2019 |
 | **End Date:** December 2019 |
 | **Project Manager:** Diego Salzani |
@@ -9,13 +10,13 @@
 | **Purpose (Problem or opportunity addressed by the project):** The purpose of our project is to create a mirror capable of providing have immediate access to the necessary information about the weather, working hours or school hours and the main news of the day. |
 | **Goals and Objectives:** The general goal of the project is to give access to the news of the day that have happened in the world, ensure the weather in real time and view working hours or school hours whenever any person is reflected in the mirrorThe app is expected to: |
 
-- Have the weather in real time.
-- Have daily school or working hours
-- Be constantly updated on the news of the day
-- Have the time and date of the moment when you look at the mirror
+* Have the weather in real time.
+* Have daily school or working hours
+* Be constantly updated on the news of the day
+* Have the time and date of the moment when you look at the mirror 
 
 | **Schedule Information:** (Major milestones and deliverables) |
-
+| --- |
 | **24/10/2019** Project organization |
 | **31/10/2019** Availability of material |
 | **07/11/2019** Realization and first version of the canvas |
@@ -24,7 +25,6 @@
 | **28/11/2019** Finalization of canvas and widget for time and date |
 | **05/12/2019** Insertion of the news widget |
 | **12/12/2019** Finalization of some points for widgets and revision of the project |
-
 | **Financial Information (Cost estimate and budget information)** 1 mirror €100 Raspberry Pi provided by the school1 LCD screen free1 wooden frame built us €100 total |
 | **Project Priorities and degrees of freedom** The deadlines set with the professor are very tight, to be respected and deliver a first version by December.Roles are changeable based on workloads of individual team members.  Roles are expected to shift throughout the project as needs arise. |
 | **Constraints** The use of our smart mirror is constrained by the fact that to interact with the program you have to interface with mouse and keyboard, not having the possibility to use the touch. The funds provided by the school have been limited. |
