@@ -1,4 +1,4 @@
-﻿| **Project Title:** Smart Mirror V1 |
+| **Project Title:** Smart Mirror V1 |
 | --- |
 | **Start Date:** 01/10/2019 | **End Date:** December 2019 |
 | **Project Manager:** Diego Salzani |
@@ -9,10 +9,10 @@
 | **Purpose (Problem or opportunity addressed by the project)**: The purpose of our project is to create a mirror capable of providing have immediate access to the necessary information about the weather, working hours or school hours and the main news of the day. |
 | **Goals and Objectives** : The general goal of the project is to give access to the news of the day that have happened in the world, ensure the weather in real time and view working hours or school hours whenever any person is reflected in the mirrorThe app is expected to: |
 
-- Have the weather in real time.
+| - Have the weather in real time.
 - Have daily school or working hours
 - Be constantly updated on the news of the day
-- Have the time and date of the moment when you look at the mirror 
+- Have the time and date of the moment when you look at the mirror |
 
 | **Schedule Information (Major milestones and deliverables)**:
 24/10/2019 - Project organization
