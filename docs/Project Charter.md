@@ -24,16 +24,16 @@ The general goal of the project is to give access to the news of the day that ha
 
 ## Schedule Information: 
 
-| **Date** | **Major milestones and deliverables** |
-| -------------- | -------------- |
-| **24/10/2019** | Project organization |
-| **31/10/2019** | Availability of material |
-| **07/11/2019** | Realization and first version of the canvas |
-| **14/11/2019** | Date and clock widget implementation (first version) |
-| **21/11/2019** | Implementation of widgets for school scheduler |
-| **28/11/2019** | Finalization of canvas and widget for time and date |
-| **05/12/2019** | Insertion of the news widget |
-| **12/12/2019** | Finalization of some points for widgets and revision of the project |
+| **Date**   | **Major milestones and deliverables**                               |
+| ---------- | ------------------------------------------------------------------- |
+| 24/10/2019 | Project organization                                                |
+| 31/10/2019 | Availability of material                                            |
+| 07/11/2019 | Realization and first version of the canvas                         |
+| 14/11/2019 | Date and clock widget implementation (first version)                |
+| 21/11/2019 | Implementation of widgets for school scheduler                      |
+| 28/11/2019 | Finalization of canvas and widget for time and date                 |
+| 05/12/2019 | Insertion of the news widget                                        |
+| 12/12/2019 | Finalization of some points for widgets and revision of the project |
 
 ## Financial Information (Cost estimate and budget information) 
 1 mirror €100 Raspberry Pi provided by the school1 LCD screen free1 wooden frame built us €100 total 
