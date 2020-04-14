@@ -6,7 +6,12 @@ nav:
     - 'Project Model Canvas': 'Project Model Canvas.md'
     - 'Software Project Management Plan': 'Software Project Management Plan.md'
     - 'Businnes Model Canvas': 'Project Charter.md'
-   
+    - 'System Documentation': 'System Documentation.md'
+    - 'Test Case Specification': 'Test Case Specification.md'
+    - 'Iteration Plan': 'Iteration Plan.md'
+    - 'Memorandum Of Understanding': 'Memorandum Of Understanding.md'
+    - 'Release Plan': 'Release Plan.md'
+    - 'User Guide': 'User Guide.md'
     
 theme:
     name: readthedocs
