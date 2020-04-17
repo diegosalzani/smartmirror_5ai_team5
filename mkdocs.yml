@@ -12,6 +12,9 @@ nav:
     - 'Memorandum Of Understanding': 'Memorandum Of Understanding.md'
     - 'Release Plan': 'Release Plan.md'
     - 'User Guide': 'User Guide.md'
+    - 'Test PLan': 'Test Plan.md'
+    - 'Succes Criteria': 'Succes Criteria.md'
+    - 'Architecture Design Coding Standards': 'Architecture Design Coding Standards.md'
     
 theme:
     name: readthedocs
