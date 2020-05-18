@@ -1,0 +1,6 @@
+select c.nomcom, count(*)
+from comuni as c
+join aziende as a on ST_intersects(a.geom,c.geom)
+group by c.nomcom
+order by count desc;
+
